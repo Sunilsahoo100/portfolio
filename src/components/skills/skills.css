@@ -1,0 +1,40 @@
+.para1{
+    font-size: 20px;
+    margin-left: 5%;
+    position: absolute;
+    color: blue;
+}
+.general{
+    position: absolute;
+    margin: 3% 0% 0% 5%;
+    display: flex;
+    gap: 5rem;
+}
+
+.para2{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 9%;
+    position: absolute;
+    color: blue;
+}
+.op{
+    position: absolute;
+    margin: 12% 0% 0% 5%;
+    display: flex;
+    gap: 5rem;
+}
+
+.para3{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 18%;
+    position: absolute;
+    color: blue;
+}
+.other{
+    position: absolute;
+    margin: 22% 0% 0% 5%;
+    display: flex;
+    gap: 5rem;
+}

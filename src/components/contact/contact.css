@@ -1,0 +1,41 @@
+.get{
+    width:35%;
+    margin-left: 50%;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+input,
+textarea{
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    border: 2px solid var(--color-black);
+    color: var(--color-black);
+    margin-top: 2%;
+
+}
+button{
+    width: max-content;
+  display: inline-block;
+  padding: 0.75rem 1.2rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  border: 1px solid var(--color-button);
+  background: var(--color-button);
+  margin-left: 8%;
+}
+.shy{
+    display: flex;
+    margin: 0% 60% 0% 14%;
+    
+
+}
+.para4{
+    position: absolute;
+    color:var(--color-button);
+    font-size: medium;
+    margin: 0% 60% 0% 5%;
+    float: left;
+}

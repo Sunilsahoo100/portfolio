@@ -1,0 +1,19 @@
+.ab{
+    background: transparent;
+    width: 20rem;
+    height: 25rem;
+    position: absolute;
+    align-items: left;
+    margin: 3.5% 0% 0% 7%;
+    border-radius: 50%;
+}
+.ab img{
+    border-radius: 50%;
+}
+.para{
+    font-size: medium;
+    margin: 2.5% 20% 0% 32%;
+    text-align: justify;
+    float:left;
+    
+}
